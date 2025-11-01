@@ -3,3 +3,4 @@ dataset/*.csv
 results/
 tensorboard_log/
 trained_models/
+genie_data/
